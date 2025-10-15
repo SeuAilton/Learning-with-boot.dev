@@ -3,7 +3,7 @@ Boots Interview
 
 blá, blá, blá...
 
-(AI stuff)
+(site AI stuff)
 
 '''
 

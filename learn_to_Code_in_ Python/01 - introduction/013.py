@@ -12,6 +12,7 @@ Add 2 separate print statements to complete the Innkeeper's response. They shoul
 
     *The Innkeeper: Ah! Great choices...
     *The Innkeeper: Is there anything else I can help you with?
+
 '''
 
 '''

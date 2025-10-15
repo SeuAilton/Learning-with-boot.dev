@@ -1,16 +1,9 @@
 '''
 Spellbook
 
-As you progress through Boot.dev, you might find yourself wanting to:
+blá, blá, blá...
 
-  *Take notes
-  *Review concepts you already learned
-  *See more examples of a concept
-  *See an example of some syntax you already learned
-
-Your spellbook solves these problems.
-
-It's a searchable cheatsheet of everything you've learned on Boot.dev. As you complete lessons, you'll automatically unlock new pages in your spellbook that can be searched at any time. So, if you know what you're looking for, use your spellbook before chatting with Boots, because using the spellbook costs no items or XP!
+(site stuff)
 
 '''
 

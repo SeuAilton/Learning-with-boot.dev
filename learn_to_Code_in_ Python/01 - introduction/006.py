@@ -14,6 +14,7 @@ Well, addition is one of the most common instructions in programming. This also 
 print(40 + 2)
 
 It first calculates the sum inside the parentheses, and then prints the result.
+
 '''
 
 '''

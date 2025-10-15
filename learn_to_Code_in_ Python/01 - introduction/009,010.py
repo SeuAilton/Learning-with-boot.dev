@@ -16,4 +16,5 @@ Syntax errors aren't the only kind of problems you can run into when coding, for
     *It's too slow. Your code is valid and does what's expected, but it does it slowly.
 
 In this course, we're just concerned with syntax and logic errors. We'll cover performance issues in a later course.
+
 '''

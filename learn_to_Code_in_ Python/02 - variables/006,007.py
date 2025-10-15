@@ -5,8 +5,8 @@ Variable names can not have spaces, they're continuous strings of characters.
 
 The creator of the Python language himself, Guido van Rossum, implores us to use snake_case for variable names. What is snake case? It's just a style for writing variable names. Here are some examples of different casing styles:
 
-Name 	    Description     Code 	     Language(s) that 
-                                         recommend it
+Name 	       Description       Code 	     Language(s) that 
+                                           recommend it
 
 Snake Case  All words are  num_new_users  Python, Ruby, Rust
             lowercase and 
