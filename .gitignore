@@ -10,6 +10,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+boot_dev/
 
 # IDE
 .vscode/
